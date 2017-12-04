@@ -1,8 +1,8 @@
 ## About me
 
-I work for [Unity Technologies](http://unity3d.com/) as a 
+I work for [Unity Technologies](http://unity3d.com/) as a Software Development Engineer in Test.
 
-Outside of work, I make [short games](https://sophiaaar.itch.io/) and organise events for girls to learn game development, and mentor at Coder Dojo.
+Outside of work, I make [short games](https://sophiaaar.itch.io/), organise events for girls to learn game development, and mentor at Coder Dojo.
 
 ## Work
 
@@ -11,12 +11,20 @@ Games industry software engineer with technical experience including C#, Python,
 Contact me for more details or see [my LinkedIn profile](https://www.linkedin.com/in/sophia-clarke-627b328b/) for my career history.
 
 ### Games
+APB Reloaded (PC, XB1, PS4)
+Fox Forest
+Witchy Clicker
 
-
-### Open Source Projects
-
+### Software and open-source projects
+Foresight (QA management tool)
+Playground Project
+Noobot
+Unified Test Framework
 
 ### Articles
-
+Various technical support articles at support.unity3d.com
 
 ### Talks and panels
+Streamlining Game Development with Unity Teams, Unite Europe 2017
+How I Taught Myself To Code, Brighton Digital Festival 2017
+Internal technical talks at Unity, 2016-Present
