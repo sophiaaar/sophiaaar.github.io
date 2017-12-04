@@ -1,5 +1,7 @@
 ## About me
 
+Physics student turned game developer.
+
 I work for [Unity Technologies](http://unity3d.com/) as a Software Development Engineer in Test.
 
 Outside of work, I make [short games](https://sophiaaar.itch.io/), organise events for girls to learn game development, and mentor at Coder Dojo.
@@ -16,10 +18,10 @@ Contact me for more details or see [my LinkedIn profile](https://www.linkedin.co
 - Witchy Clicker
 
 ### Software and open-source projects I've contributed to
-- Foresight (QA management tool)
-- Playground Project
-- Noobot
-- Unified Test Framework
+- Foresight (QA management tool),
+- Playground Project,
+- Noobot,
+- Unified Test Framework,
 
 ### Articles
 Various technical support articles at support.unity3d.com
