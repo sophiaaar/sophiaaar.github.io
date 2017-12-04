@@ -1,6 +1,6 @@
 ## About me
 
-Physics student turned game developer.
+Physics student turned game developer. My passions include creating personal experiences in games, and encouraging others to do the same.
 
 I work for [Unity Technologies](http://unity3d.com/) as a Software Development Engineer in Test.
 
@@ -8,7 +8,7 @@ Outside of work, I make [short games](https://sophiaaar.itch.io/), organise even
 
 ## Work
 
-Games industry software engineer with technical experience including C#, Python, Unity, Perforce, Git, and Cloud Solutions using Amazon Web Services. Working through from QA tester to Software Engineer I have a strong track record of problem-solving and efficiency improvements through design and development of software tools and process. In addition to my professional career in games I have created 2D and 3D hobbyist games in Unity, designed text-based adventure games in Python, created small pixel-art games using RPG Maker and hosted and produced the popular podcast ‘Splitting Pixels’.
+My first games industry job was working as a QA Tester on APB Reloaded, the 3rd person shooter MMO. Working at a small studio allowed me to explore a number of disciplines before getting promoted to Software Engineer. I eventually took up a technical support role at Unity, where I realised my love of troubleshooting and helping others create the best projects they can. Now in the Release QA team, I ensure that Unity users get the best possible product.
 
 Contact me for more details or see [my LinkedIn profile](https://www.linkedin.com/in/sophia-clarke-627b328b/) for my career history.
 
@@ -18,13 +18,14 @@ Contact me for more details or see [my LinkedIn profile](https://www.linkedin.co
 - Witchy Clicker
 
 ### Software and open-source projects I've contributed to
-- Foresight (QA management tool),
-- Playground Project,
-- Noobot,
-- Unified Test Framework,
+- Foresight (QA management tool)
+- Playground Project
+- Noobot
+- Unified Test Framework
 
 ### Articles
-Various technical support articles at support.unity3d.com
+- Various technical support articles at support.unity3d.com
+- [The Sun: A Closer Look](https://the-gist.org/2014/03/the-sun-a-closer-look/)
 
 ### Talks and panels
 - Streamlining Game Development with Unity Teams, Unite Europe 2017
