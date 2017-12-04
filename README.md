@@ -11,20 +11,20 @@ Games industry software engineer with technical experience including C#, Python,
 Contact me for more details or see [my LinkedIn profile](https://www.linkedin.com/in/sophia-clarke-627b328b/) for my career history.
 
 ### Games
-APB Reloaded (PC, XB1, PS4)
-Fox Forest
-Witchy Clicker
+- APB Reloaded (PC, XB1, PS4)
+- Fox Forest
+- Witchy Clicker
 
-### Software and open-source projects
-Foresight (QA management tool)
-Playground Project
-Noobot
-Unified Test Framework
+### Software and open-source projects I've contributed to
+- Foresight (QA management tool)
+- Playground Project
+- Noobot
+- Unified Test Framework
 
 ### Articles
 Various technical support articles at support.unity3d.com
 
 ### Talks and panels
-Streamlining Game Development with Unity Teams, Unite Europe 2017
-How I Taught Myself To Code, Brighton Digital Festival 2017
-Internal technical talks at Unity, 2016-Present
+- Streamlining Game Development with Unity Teams, Unite Europe 2017
+- How I Taught Myself To Code, Brighton Digital Festival 2017
+- Internal technical talks at Unity, 2016-Present
