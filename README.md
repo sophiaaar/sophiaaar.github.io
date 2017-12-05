@@ -19,9 +19,9 @@ Contact me for more details or see [my LinkedIn profile](https://www.linkedin.co
 
 ### Software and open-source projects I've contributed to
 - Foresight (QA management tool)
-- Playground Project
-- Noobot
-- Unified Test Framework
+- [Playground Project](https://github.com/sophiaaar/PlaygroundProject)
+- [Noobot](https://github.com/sophiaaar/noobot)
+- [Unified Test Framework](https://github.com/Unity-Technologies/UTF_Core)
 
 ### Articles
 - Various technical support articles at support.unity3d.com
