@@ -14,11 +14,11 @@ Contact me for more details or see [my LinkedIn profile](https://www.linkedin.co
 
 ### Games
 - APB Reloaded (PC, XB1, PS4)
-- Fox Forest
-- Witchy Clicker
+- [Fox Forest](https://sophiaaar.itch.io/fox-forest)
+- [Witchy Clicker](https://sophiaaar.itch.io/witchy-clicker)
 
 ### Software and open-source projects I've contributed to
-- Foresight (QA management tool)
+- [Foresight](https://foresight-ts.com/)
 - [Playground Project](https://github.com/sophiaaar/PlaygroundProject)
 - [Noobot](https://github.com/sophiaaar/noobot)
 - [Unified Test Framework](https://github.com/Unity-Technologies/UTF_Core)
@@ -28,6 +28,6 @@ Contact me for more details or see [my LinkedIn profile](https://www.linkedin.co
 - [The Sun: A Closer Look](https://the-gist.org/2014/03/the-sun-a-closer-look/)
 
 ### Talks and panels
-- Streamlining Game Development with Unity Teams, Unite Europe 2017
+- [Streamlining Game Development with Unity Teams](https://www.youtube.com/watch?v=zzRT5y6zO7A), Unite Europe 2017
 - How I Taught Myself To Code, Brighton Digital Festival 2017
 - Internal technical talks at Unity, 2016-Present
