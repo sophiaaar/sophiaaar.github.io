@@ -2,9 +2,11 @@
 
 Physics student turned game developer. My passions include creating personal experiences in games, and encouraging others to do the same.
 
-I work for [Unity Technologies](http://unity3d.com/) as a Software Development Engineer in Test.
+I work for [Unity Technologies](http://unity3d.com/) as a Software Engineer.
 
 Outside of work, I make [short games](https://sophiaaar.itch.io/), organise events for girls to learn game development, and mentor at Coder Dojo.
+
+In 2018, I was honoured to be featured on the [GamesIndustry.biz 100](https://www.gamesindustry.biz/top100/2018), and I had a [game featured](https://sophiaaar.itch.io/be-young-and-shut-up) at AMaze Berlin as part of the Out Of The Frame game jam.
 
 ## Work
 
@@ -16,18 +18,26 @@ Contact me for more details or see [my LinkedIn profile](https://www.linkedin.co
 - APB Reloaded (PC, XB1, PS4)
 - [Fox Forest](https://sophiaaar.itch.io/fox-forest)
 - [Witchy Clicker](https://sophiaaar.itch.io/witchy-clicker)
+- See more on my [itch.io page](https://sophiaaar.itch.io/)
 
 ### Software and open-source projects I've contributed to
 - [Foresight](https://foresight-ts.com/)
 - [Playground Project](https://github.com/sophiaaar/PlaygroundProject)
 - [Noobot](https://github.com/sophiaaar/noobot)
 - [Unified Test Framework](https://github.com/Unity-Technologies/UTF_Core)
+- [TestRail Scraper](https://github.com/sophiaaar/TestRail-Scraper)
 
 ### Articles
 - Various technical support articles at support.unity3d.com
 - [The Sun: A Closer Look](https://the-gist.org/2014/03/the-sun-a-closer-look/)
+- [How I Taught Myself To Code](http://sophiaaar.blogspot.co.uk/2017/05/how-i-taught-myself-to-code.html)
+- [Accessing Shader Graph Properties via Code](http://sophiaaar.blogspot.co.uk/2018/02/accessing-shader-graph-properties-via.html)
+- [What Is Dynamic Batching...?](http://sophiaaar.blogspot.co.uk/2018/03/what-is-dynamic-batching-and-why-is-it.html)
+- [Using LINQ To Count How Many Times An Object Appears In A List](http://sophiaaar.blogspot.co.uk/2018/03/using-linq-to-count-how-many-times.html)
+- Other [misc blogs](http://sophiaaar.blogspot.co.uk)
 
 ### Talks and panels
 - [Streamlining Game Development with Unity Teams](https://www.youtube.com/watch?v=zzRT5y6zO7A), Unite Europe 2017
 - How I Taught Myself To Code, Brighton Digital Festival 2017
+- [The YGD finalists visit Unity](http://ygd.bafta.org/about-ygd/ygd-news/the-ygd-finalists-visit-unity), 2017
 - Internal technical talks at Unity, 2016-Present
