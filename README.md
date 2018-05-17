@@ -6,7 +6,7 @@ I work for [Unity Technologies](http://unity3d.com/) as a Software Engineer.
 
 Outside of work, I make [short games](https://sophiaaar.itch.io/), organise events for girls to learn game development, and mentor at Coder Dojo.
 
-In 2018, I was honoured to be featured on the [GamesIndustry.biz 100](https://www.gamesindustry.biz/top100/2018), and I had a [game featured](https://sophiaaar.itch.io/be-young-and-shut-up) at AMaze Berlin as part of the Out Of The Frame game jam.
+In 2018, I was honoured to be featured on the [GamesIndustry.biz 100](https://www.gamesindustry.biz/top100/2018). I also had a [game featured](https://sophiaaar.itch.io/be-young-and-shut-up) at AMaze Berlin as part of the Out Of The Frame game jam.
 
 ## Work
 
