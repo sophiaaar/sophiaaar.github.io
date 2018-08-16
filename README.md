@@ -38,6 +38,7 @@ Contact me for more details or see [my LinkedIn profile](https://www.linkedin.co
 - Other [misc blogs](http://sophiaaar.blogspot.co.uk)
 
 ### Talks and panels
+- [Advantages of 2D Tilemaps for Mobile Development(https://twitter.com/sophiaaar/status/1027855118190997504)
 - [Streamlining Game Development with Unity Teams](https://www.youtube.com/watch?v=zzRT5y6zO7A), Unite Europe 2017
 - How I Taught Myself To Code, Brighton Digital Festival 2017
 - [The YGD finalists visit Unity](http://ygd.bafta.org/about-ygd/ygd-news/the-ygd-finalists-visit-unity), 2017
