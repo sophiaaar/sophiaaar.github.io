@@ -35,9 +35,11 @@ Contact me for more details or see [my LinkedIn profile](https://www.linkedin.co
 - [Accessing Shader Graph Properties via Code](http://sophiaaar.blogspot.co.uk/2018/02/accessing-shader-graph-properties-via.html)
 - [What Is Dynamic Batching...?](http://sophiaaar.blogspot.co.uk/2018/03/what-is-dynamic-batching-and-why-is-it.html)
 - [Using LINQ To Count How Many Times An Object Appears In A List](http://sophiaaar.blogspot.co.uk/2018/03/using-linq-to-count-how-many-times.html)
+- [Testing Test-Driven Development with the Unity Test Runner](https://blogs.unity3d.com/2018/11/02/testing-test-driven-development-with-the-unity-test-runner/)
 - Other [misc blogs](http://sophiaaar.blogspot.co.uk)
 
 ### Talks and panels
+- Advantages of 2D Tilemaps for Mobile Development, Unite LA, October 2018
 - [Advantages of 2D Tilemaps for Mobile Development](https://twitter.com/sophiaaar/status/1027855118190997504), Brighton Unity User Group, August 2018
 - [Streamlining Game Development with Unity Teams](https://www.youtube.com/watch?v=zzRT5y6zO7A), Unite Europe, June 2017
 - How I Taught Myself To Code, Brighton Digital Festival, September 2017
