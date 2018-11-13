@@ -26,6 +26,7 @@ Contact me for more details or see [my LinkedIn profile](https://www.linkedin.co
 - [Noobot](https://github.com/sophiaaar/noobot)
 - [Unified Test Framework](https://github.com/Unity-Technologies/UTF_Core)
 - [TestRail Scraper](https://github.com/sophiaaar/TestRail-Scraper)
+- [Variant Window for Unity's Improved Prefab Workflow](https://github.com/sophiaaar/ImprovedPrefabs-VariantWindow)
 - See more on my [GitHub](https://github.com/sophiaaar)
 
 ### Articles
