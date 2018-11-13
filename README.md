@@ -29,14 +29,14 @@ Contact me for more details or see [my LinkedIn profile](https://www.linkedin.co
 - See more on my [GitHub](https://github.com/sophiaaar)
 
 ### Articles
-- Various technical support articles at support.unity3d.com
-- [The Sun: A Closer Look](https://the-gist.org/2014/03/the-sun-a-closer-look/)
 - [How I Taught Myself To Code](http://sophiaaar.blogspot.co.uk/2017/05/how-i-taught-myself-to-code.html)
 - [Accessing Shader Graph Properties via Code](http://sophiaaar.blogspot.co.uk/2018/02/accessing-shader-graph-properties-via.html)
 - [What Is Dynamic Batching...?](http://sophiaaar.blogspot.co.uk/2018/03/what-is-dynamic-batching-and-why-is-it.html)
 - [Using LINQ To Count How Many Times An Object Appears In A List](http://sophiaaar.blogspot.co.uk/2018/03/using-linq-to-count-how-many-times.html)
 - [Testing Test-Driven Development with the Unity Test Runner](https://blogs.unity3d.com/2018/11/02/testing-test-driven-development-with-the-unity-test-runner/)
 - Other [misc blogs](http://sophiaaar.blogspot.co.uk)
+- [The Sun: A Closer Look](https://the-gist.org/2014/03/the-sun-a-closer-look/)
+- Various technical support articles at support.unity3d.com
 
 ### Talks and panels
 - Advantages of 2D Tilemaps for Mobile Development, Unite LA, October 2018
