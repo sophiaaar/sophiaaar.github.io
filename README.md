@@ -39,7 +39,7 @@ Contact me for more details or see [my LinkedIn profile](https://www.linkedin.co
 - [The Sun: A Closer Look](https://the-gist.org/2014/03/the-sun-a-closer-look/)
 
 ### Talks and panels
-- Advantages of 2D Tilemaps for Mobile Development, Unite LA, October 2018
+- [Advantages of 2D Tilemaps for Mobile Development](https://www.youtube.com/watch?v=rKlvgkDHWfQ), Unite LA, October 2018
 - [Advantages of 2D Tilemaps for Mobile Development](https://twitter.com/sophiaaar/status/1027855118190997504), Brighton Unity User Group, August 2018
 - [Streamlining Game Development with Unity Teams](https://www.youtube.com/watch?v=zzRT5y6zO7A), Unite Europe, June 2017
 - How I Taught Myself To Code, Brighton Digital Festival, September 2017
