@@ -2,7 +2,7 @@
 
 Physics student turned game developer. My passions include creating personal experiences in games, and encouraging others to do the same.
 
-I work for [Unity Technologies](http://unity3d.com/) as a Software Engineer.
+I work for [modl.ai](http://modl.ai/) as a Senior Software Engineer. Previously, I was at Unity Technologies.
 
 Outside of work, I make [short games](https://sophiaaar.itch.io/), organise events for girls to learn game development, and mentor at Coder Dojo.
 
