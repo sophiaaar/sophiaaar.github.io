@@ -10,9 +10,7 @@ In 2018, I was honoured to be featured on the [GamesIndustry.biz 100](https://ww
 
 ## Work
 
-My first games industry job was working as a QA Tester on APB Reloaded, the 3rd person shooter MMO. Working at a small studio allowed me to explore a number of disciplines before getting promoted to Software Engineer. I eventually took up a technical support role at Unity, where I realised my love of troubleshooting and helping others create the best projects they can. Now in the Release QA team, I ensure that Unity users get the best possible product.
-
-Contact me for more details or see [my LinkedIn profile](https://www.linkedin.com/in/sophia-clarke-627b328b/) for my career history.
+Contact me for details or see [my LinkedIn profile](https://www.linkedin.com/in/sophia-clarke-627b328b/) for my career history.
 
 ### Games
 - APB Reloaded (PC, XB1, PS4)
